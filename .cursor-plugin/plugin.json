@@ -1,0 +1,19 @@
+{
+  "name": "schwanki",
+  "version": "1.0.0",
+  "description": "Language flashcards in Cursor: list your Schwanki decks, read cards and review progress, and save the words you practiced in a chat as a new deck.",
+  "author": {
+    "name": "El Sueno LLC",
+    "email": "hello@elsueno.xyz"
+  },
+  "homepage": "https://schwankiapp.com/integrations/mcp",
+  "repository": "https://github.com/La-Salida/schwanki-plugins",
+  "keywords": [
+    "flashcards",
+    "language-learning",
+    "spaced-repetition",
+    "vocabulary",
+    "anki"
+  ],
+  "logo": "assets/logo.png"
+}
