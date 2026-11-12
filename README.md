@@ -21,10 +21,10 @@ Connected apps can't edit or delete your decks, cards or review history.
 
 ## Example prompts
 
-- Be a waiter in a Paris café. When we're done, save every phrase I got wrong to Schwanki under "Paris trip", with audio.
-- Turn the words from this translation into cards filed under Señora López, with a picture for each.
-- Check my Japanese decks, then save the 20 Tokyo phrases I don't have yet, each with a short video.
-- Find the Spanish words I keep forgetting and write me a story that uses all of them.
+- Take this transcript from my italki Chinese lesson and save the top 20 words as a Schwanki deck with memorable video scenes.
+- Turn the words from this translation chat into cards filed under Señora Raquel, with a video for each.
+- Build me a Japanese tourist phrases deck where every card is a short video starring an animated duck tourist in Shibuya.
+- Find the French words I keep forgetting and make me a new deck that uses each of them.
 
 Pictures, audio and videos use Schwanki AI credits (1 per picture or audio clip, 7 per video) and are made only when you ask.
 
