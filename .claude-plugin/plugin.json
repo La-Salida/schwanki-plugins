@@ -7,7 +7,14 @@
     "email": "hello@elsueno.xyz"
   },
   "homepage": "https://schwankiapp.com/integrations/claude",
+  "privacyPolicyUrl": "https://schwankiapp.com/privacy",
   "repository": "https://github.com/La-Salida/schwanki-plugins",
   "license": "Proprietary",
-  "keywords": ["flashcards", "language-learning", "spaced-repetition", "vocabulary", "anki"]
+  "keywords": [
+    "flashcards",
+    "language-learning",
+    "spaced-repetition",
+    "vocabulary",
+    "anki"
+  ]
 }
