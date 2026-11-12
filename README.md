@@ -15,16 +15,18 @@ There's no API key: Cursor registers itself and you approve it once.
 | --- | --- |
 | `list_decks` | Lists your decks with language, card count and cards due now |
 | `get_deck_cards` | Reads a deck's cards and review progress, up to 200 per call |
-| `save_review_deck` | Saves 1 to 24 cards in one language as a deck; skips cards you already have |
+| `save_review_deck` | Saves 1 to 24 cards in one language as a deck, filed under a teacher or topic, with optional pictures, audio or video; skips cards you already have |
 
 Connected apps can't edit or delete your decks, cards or review history.
 
 ## Example prompts
 
-- Find the Spanish words I keep forgetting in Schwanki and write me a short story that uses all of them.
-- I'm in Tokyo next week. Check my Japanese decks, then save the 20 phrases I'll need that I don't have yet.
-- Be a waiter in a Paris café. When we're done, save every phrase I got wrong to Schwanki.
-- Here's my German lesson transcript. Make cards for the new words and skip anything already in my decks.
+- Be a waiter in a Paris café. When we're done, save every phrase I got wrong to Schwanki under "Paris trip", with audio.
+- Turn the words from this translation into cards filed under Señora López, with a picture for each.
+- Check my Japanese decks, then save the 20 Tokyo phrases I don't have yet, each with a short video.
+- Find the Spanish words I keep forgetting and write me a story that uses all of them.
+
+Pictures, audio and videos use Schwanki AI credits (1 per picture or audio clip, 7 per video) and are made only when you ask.
 
 ## Help
 
