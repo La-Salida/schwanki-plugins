@@ -2,7 +2,7 @@
   "mcpServers": {
     "schwanki": {
       "type": "http",
-      "url": "https://schwankiapp.com/mcp"
+      "url": "https://schwankiapp.com/mcp/claude"
     }
   }
 }

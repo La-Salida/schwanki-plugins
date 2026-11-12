@@ -1,6 +1,6 @@
 ---
 name: make-schwanki-deck
-description: Turn a language chat, lesson transcript or translation into a Schwanki flashcard deck, optionally with pictures, audio or videos. Use when the user asks to save words to Schwanki, make flashcards from a lesson, or build a deck around words they keep forgetting.
+description: Turn a language chat, lesson transcript or translation into a Schwanki flashcard deck. Use when the user asks to save words to Schwanki, make flashcards from a lesson, or build a deck around words they keep forgetting.
 ---
 
 # Make a Schwanki deck
@@ -25,9 +25,7 @@ Call `save_review_deck` with:
 
 - `title`: what the deck is about ("italki lesson, Nov 12", "Tokyo tourist phrases").
 - `teacher`: the tutor, class or source when the user names one, so Schwanki groups the deck with that teacher's other decks.
-- `media`: only when the user asks for pictures (`image`), pronunciation (`audio`) or short videos (`video`). They cost Schwanki AI credits: 1 per picture or audio clip and 7 per video, per card. For a large video deck, tell the user the total first.
-- `mediaStyle`: the user's own art direction for pictures and videos, such as a recurring character or setting ("an animated duck tourist in Shibuya").
 
-Share the review link from the result. If the result says there aren't enough credits, the cards are still saved; tell the user they can top up in Schwanki Settings.
+Share the review link from the result.
 
 The tools cannot edit or delete decks or cards.

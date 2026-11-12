@@ -11,9 +11,9 @@
     {
       "name": "schwanki",
       "source": "./",
-      "description": "Turn any language chat, lesson transcript or translation into a Schwanki flashcard deck with pictures, audio or short videos, filed by teacher or theme.",
+      "description": "Turn any language chat, lesson transcript or translation into a Schwanki flashcard deck, filed by teacher or theme.",
       "category": "education",
-      "homepage": "https://schwankiapp.com/integrations/mcp"
+      "homepage": "https://schwankiapp.com/integrations/claude"
     }
   ]
 }
