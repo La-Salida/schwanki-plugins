@@ -4,10 +4,15 @@ Connects Cursor to [Schwanki](https://schwankiapp.com), a spaced-repetition flas
 
 ## Setup
 
-1. Install the plugin. It adds the Schwanki MCP server at `https://schwankiapp.com/mcp`.
-2. The first time a tool runs, Cursor opens Schwanki's sign-in page. Sign in, check that the app asking is Cursor, and choose **Connect**.
+**Claude Code:**
 
-There's no API key: Cursor registers itself and you approve it once.
+```
+/plugin install schwanki --marketplace La-Salida/schwanki-plugins
+```
+
+**Cursor:** install Schwanki from the Cursor Marketplace.
+
+The plugin adds the Schwanki MCP server at `https://schwankiapp.com/mcp`, and in Claude Code also a `make-schwanki-deck` skill. The first time a tool runs, your app opens Schwanki's sign-in page. Sign in, check the app's name, and choose **Connect**. There's no API key: the app registers itself and you approve it once.
 
 ## Tools
 

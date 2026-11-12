@@ -1,0 +1,19 @@
+{
+  "name": "schwanki",
+  "owner": {
+    "name": "El Sueno LLC",
+    "email": "hello@elsueno.xyz"
+  },
+  "metadata": {
+    "description": "Schwanki's official plugins: spaced-repetition language flashcards you scroll like Reels."
+  },
+  "plugins": [
+    {
+      "name": "schwanki",
+      "source": "./",
+      "description": "Turn any language chat, lesson transcript or translation into a Schwanki flashcard deck with pictures, audio or short videos, filed by teacher or theme.",
+      "category": "education",
+      "homepage": "https://schwankiapp.com/integrations/mcp"
+    }
+  ]
+}

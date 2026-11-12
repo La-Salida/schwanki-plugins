@@ -1,0 +1,13 @@
+{
+  "name": "schwanki",
+  "version": "1.0.0",
+  "description": "Turn any language chat, lesson transcript or translation into a Schwanki flashcard deck with pictures, audio or short videos, filed by teacher or theme, for your scrollable spaced-repetition feed.",
+  "author": {
+    "name": "El Sueno LLC",
+    "email": "hello@elsueno.xyz"
+  },
+  "homepage": "https://schwankiapp.com/integrations/mcp",
+  "repository": "https://github.com/La-Salida/schwanki-plugins",
+  "license": "Proprietary",
+  "keywords": ["flashcards", "language-learning", "spaced-repetition", "vocabulary", "anki"]
+}
