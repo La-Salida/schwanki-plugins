@@ -21,9 +21,10 @@ Connected apps can't edit or delete your decks, cards or review history.
 
 ## Example prompts
 
-- Save the Spanish phrases from this chat to Schwanki.
-- Which of my Schwanki decks has the most cards due?
-- Quiz me on my Japanese deck.
+- Find the Spanish words I keep forgetting in Schwanki and write me a short story that uses all of them.
+- I'm in Tokyo next week. Check my Japanese decks, then save the 20 phrases I'll need that I don't have yet.
+- Be a waiter in a Paris café. When we're done, save every phrase I got wrong to Schwanki.
+- Here's my German lesson transcript. Make cards for the new words and skip anything already in my decks.
 
 ## Help
 
