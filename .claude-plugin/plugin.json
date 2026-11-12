@@ -1,5 +1,6 @@
 {
   "name": "schwanki",
+  "displayName": "Schwanki",
   "version": "1.1.0",
   "description": "Turn any language chat, lesson transcript or translation into a Schwanki flashcard deck, filed by teacher or theme, for your scrollable spaced-repetition feed.",
   "author": {
@@ -8,6 +9,9 @@
   },
   "homepage": "https://schwankiapp.com/integrations/claude",
   "privacyPolicyUrl": "https://schwankiapp.com/privacy",
+  "termsOfServiceUrl": "https://schwankiapp.com/terms",
+  "supportUrl": "https://schwankiapp.com/support",
+  "documentationUrl": "https://schwankiapp.com/integrations/claude",
   "repository": "https://github.com/La-Salida/schwanki-plugins",
   "license": "Proprietary",
   "keywords": [
