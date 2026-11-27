@@ -13,6 +13,8 @@
 <p align="center">
   <a href="https://schwankiapp.com/?ref=github-plugins"><b>schwankiapp.com</b></a>
   &nbsp;·&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=io.lasalida.schwanki&referrer=utm_source%3Dgithub-plugins">Android app</a>
+  &nbsp;·&nbsp;
   <a href="https://schwankiapp.com/integrations/mcp?ref=github-plugins">Setup guide</a>
   &nbsp;·&nbsp;
   <a href="https://schwankiapp.com/support?ref=github-plugins">Support</a>
@@ -111,7 +113,9 @@ Keep a run going and the goose notices. Finish the day's cards and you get a car
 
 Decks you save from a chat sit next to everything else you study: Anki decks you import with their review history, class notes, whiteboard photos and Google Docs lessons.
 
-Get the app at [schwankiapp.com](https://schwankiapp.com/?ref=github-plugins). It runs in any phone browser and installs to your home screen.
+Get the Android app on [Google Play](https://play.google.com/store/apps/details?id=io.lasalida.schwanki&referrer=utm_source%3Dgithub-plugins), or open [schwankiapp.com](https://schwankiapp.com/?ref=github-plugins) in any phone browser and add it to your home screen.
+
+<a href="https://play.google.com/store/apps/details?id=io.lasalida.schwanki&referrer=utm_source%3Dgithub-plugins"><img src="assets/readme/button-google-play.png" height="56" alt="Get it on Google Play"></a>
 
 <br clear="right">
 
@@ -142,6 +146,7 @@ Through `https://schwankiapp.com/mcp`, the save tool can also give cards a pictu
 ## Links
 
 [Website](https://schwankiapp.com/?ref=github-plugins) ·
+[Android app](https://play.google.com/store/apps/details?id=io.lasalida.schwanki&referrer=utm_source%3Dgithub-plugins) ·
 [Claude setup](https://schwankiapp.com/integrations/claude?ref=github-plugins) ·
 [MCP setup](https://schwankiapp.com/integrations/mcp?ref=github-plugins) ·
 [Anki alternative](https://schwankiapp.com/anki-alternative?ref=github-plugins) ·
